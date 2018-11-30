@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: design-mode
+server:
+  port: 8888
+#日志配置
+logging:
+  path: /data/log/
+  level:
+    root: INFO
+
+
+
